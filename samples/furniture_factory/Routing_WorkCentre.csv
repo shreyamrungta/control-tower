@@ -1,0 +1,8 @@
+Item,OpSeq,Operation,WorkCentre,SetupTimeHrs,RunTimeHrsPerUnit
+SEAT-PANEL,10,Cut & Upholster,WC-A,0.4,0.05
+CHAIR-FRAME,10,Weld Frame,WC-A,0.6,0.06
+TABLE-TOP,10,Cut Panel,WC-A,0.5,0.05
+TABLE-TOP,20,Laminate & Edge,WC-C,0.7,0.07
+LEG-SET,10,Cut & Weld Legs,WC-A,0.4,0.04
+CHAIR,10,Final Assembly,WC-B,0.5,0.08
+TABLE,10,Final Assembly,WC-B,0.6,0.1

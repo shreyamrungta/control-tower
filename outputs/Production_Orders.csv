@@ -1,0 +1,93 @@
+OrderID,Item,Description,Quantity,ReleasePeriod,DuePeriod,LowLevelCode,Status,ConstraintType,Notes
+PO-0001,BIKE-KIDS,"Kids Bike 20 inch, single speed",310.0,1,2,0,Released,None,All components available
+PO-0002,FRAME-ROAD,"Frame assembly, Road, painted",79.899,1,3,1,Released,None,All components available
+PO-0003,TUBESET-ROAD,"Cut & mitered tube set, Road",40.567,1,2,2,Released,None,All components available
+PO-0004,FRAME-ROAD,"Frame assembly, Road, painted",165.657,2,4,1,Released,None,All components available
+PO-0005,TUBESET-KIDS,"Cut & mitered tube set, Kids",320.0,2,3,2,Released,None,All components available
+PO-0006,TUBESET-ROAD,"Cut & mitered tube set, Road",166.976,2,3,2,Released,None,All components available
+PO-0007,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",84.0,3,4,0,Released,None,All components available
+PO-0008,BIKE-ROAD,"Road Bike 700C, 14 speed",89.0,3,4,0,Released,None,All components available
+PO-0009,DRIVE-14S,Drivetrain 14 speed,25.556,3,4,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0010,FRAME-KIDS,"Frame assembly, Kids, painted",320.0,3,5,1,Released,None,All components available
+PO-0011,FRAME-MTB,"Frame assembly, MTB, painted",110.505,3,5,1,Released,None,All components available
+PO-0012,FRAME-ROAD,"Frame assembly, Road, painted",163.636,3,5,1,Released,None,All components available
+PO-0013,WHEEL-700C,Wheel assembly 700C,101.111,3,4,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0014,TUBESET-ROAD,"Cut & mitered tube set, Road",148.423,3,4,2,Released,None,All components available
+PO-0015,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,4,5,0,Released,None,All components available
+PO-0016,BIKE-ROAD,"Road Bike 700C, 14 speed",164.0,4,5,0,Released,None,All components available
+PO-0017,DRIVE-14S,Drivetrain 14 speed,163.636,4,5,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0018,DRIVE-21S,Drivetrain 21 speed,120.505,4,5,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0019,DRIVE-SS,Drivetrain single speed,910.0,4,5,1,Released,None,All components available
+PO-0020,FRAME-MTB,"Frame assembly, MTB, painted",182.828,4,6,1,Released,None,All components available
+PO-0021,FRAME-ROAD,"Frame assembly, Road, painted",145.455,4,6,1,Released,None,All components available
+PO-0022,WHEEL-20,Wheel assembly 20 inch,630.0,4,5,1,Released,None,All components available
+PO-0023,WHEEL-26,Wheel assembly 26 inch,221.01,4,5,1,Released,None,All components available
+PO-0024,WHEEL-700C,Wheel assembly 700C,327.273,4,5,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0025,TUBESET-KIDS,"Cut & mitered tube set, Kids",320.0,4,5,2,Released,None,All components available
+PO-0026,TUBESET-MTB,"Cut & mitered tube set, MTB",155.879,4,5,2,Released,None,All components available
+PO-0027,TUBESET-ROAD,"Cut & mitered tube set, Road",135.024,4,5,2,Released,None,All components available
+PO-0028,BIKE-KIDS,"Kids Bike 20 inch, single speed",310.0,5,6,0,Released,None,All components available
+PO-0029,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,5,6,0,Released,None,All components available
+PO-0030,BIKE-ROAD,"Road Bike 700C, 14 speed",162.0,5,6,0,Released,None,All components available
+PO-0031,DRIVE-14S,Drivetrain 14 speed,145.455,5,6,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0032,DRIVE-21S,Drivetrain 21 speed,182.828,5,6,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0033,FRAME-KIDS,"Frame assembly, Kids, painted",320.0,5,7,1,Released,None,All components available
+PO-0034,FRAME-MTB,"Frame assembly, MTB, painted",182.828,5,7,1,Released,None,All components available
+PO-0035,FRAME-ROAD,"Frame assembly, Road, painted",132.323,5,7,1,Released,None,All components available
+PO-0036,WHEEL-26,Wheel assembly 26 inch,365.657,5,6,1,Released,None,All components available
+PO-0037,WHEEL-700C,Wheel assembly 700C,290.909,5,6,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0038,TUBESET-MTB,"Cut & mitered tube set, MTB",186.559,5,6,2,Released,None,All components available
+PO-0039,TUBESET-ROAD,"Cut & mitered tube set, Road",122.655,5,6,2,Released,None,All components available
+PO-0040,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,6,7,0,Released,None,All components available
+PO-0041,BIKE-ROAD,"Road Bike 700C, 14 speed",144.0,6,7,0,Released,None,All components available
+PO-0042,DRIVE-14S,Drivetrain 14 speed,132.323,6,7,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0043,DRIVE-21S,Drivetrain 21 speed,182.828,6,7,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0044,FRAME-MTB,"Frame assembly, MTB, painted",182.828,6,8,1,Released,None,All components available
+PO-0045,FRAME-ROAD,"Frame assembly, Road, painted",120.202,6,8,1,Released,None,All components available
+PO-0046,WHEEL-20,Wheel assembly 20 inch,630.0,6,7,1,Released,None,All components available
+PO-0047,WHEEL-26,Wheel assembly 26 inch,365.657,6,7,1,Released,None,All components available
+PO-0048,WHEEL-700C,Wheel assembly 700C,264.646,6,7,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0049,TUBESET-MTB,"Cut & mitered tube set, MTB",186.559,6,7,2,Released,None,All components available
+PO-0050,TUBESET-ROAD,"Cut & mitered tube set, Road",111.317,6,7,2,Released,None,All components available
+PO-0051,BIKE-KIDS,"Kids Bike 20 inch, single speed",310.0,7,8,0,Released,None,All components available
+PO-0052,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,7,8,0,Released,None,All components available
+PO-0053,BIKE-ROAD,"Road Bike 700C, 14 speed",131.0,7,8,0,Released,None,All components available
+PO-0054,DRIVE-14S,Drivetrain 14 speed,120.202,7,8,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0055,DRIVE-21S,Drivetrain 21 speed,182.828,7,8,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0056,FRAME-MTB,"Frame assembly, MTB, painted",182.828,7,9,1,Released,None,All components available
+PO-0057,FRAME-ROAD,"Frame assembly, Road, painted",109.091,7,9,1,Released,None,All components available
+PO-0058,WHEEL-26,Wheel assembly 26 inch,365.657,7,8,1,Released,None,All components available
+PO-0059,WHEEL-700C,Wheel assembly 700C,240.404,7,8,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0060,TUBESET-KIDS,"Cut & mitered tube set, Kids",320.0,7,8,2,Released,None,All components available
+PO-0061,TUBESET-MTB,"Cut & mitered tube set, MTB",186.559,7,8,2,Released,None,All components available
+PO-0062,TUBESET-ROAD,"Cut & mitered tube set, Road",103.072,7,8,2,Released,None,All components available
+PO-0063,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,8,9,0,Released,None,All components available
+PO-0064,BIKE-ROAD,"Road Bike 700C, 14 speed",119.0,8,9,0,Released,None,All components available
+PO-0065,DRIVE-14S,Drivetrain 14 speed,109.091,8,9,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0066,DRIVE-21S,Drivetrain 21 speed,182.828,8,9,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0067,FRAME-KIDS,"Frame assembly, Kids, painted",320.0,8,10,1,Released,None,All components available
+PO-0068,FRAME-MTB,"Frame assembly, MTB, painted",182.828,8,10,1,Released,None,All components available
+PO-0069,FRAME-ROAD,"Frame assembly, Road, painted",101.01,8,10,1,Released,None,All components available
+PO-0070,WHEEL-26,Wheel assembly 26 inch,365.657,8,9,1,Released,None,All components available
+PO-0071,WHEEL-700C,Wheel assembly 700C,218.182,8,9,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0072,TUBESET-MTB,"Cut & mitered tube set, MTB",186.559,8,9,2,Released,None,All components available
+PO-0073,TUBESET-ROAD,"Cut & mitered tube set, Road",111.317,8,9,2,Released,None,All components available
+PO-0074,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,9,10,0,Released,None,All components available
+PO-0075,BIKE-ROAD,"Road Bike 700C, 14 speed",108.0,9,10,0,Released,None,All components available
+PO-0076,DRIVE-14S,Drivetrain 14 speed,101.01,9,10,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0077,DRIVE-21S,Drivetrain 21 speed,182.828,9,10,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0078,DRIVE-SS,Drivetrain single speed,910.0,9,10,1,Released,None,All components available
+PO-0079,FRAME-MTB,"Frame assembly, MTB, painted",182.828,9,11,1,Released,None,All components available
+PO-0080,FRAME-ROAD,"Frame assembly, Road, painted",109.091,9,11,1,Released,None,All components available
+PO-0081,WHEEL-20,Wheel assembly 20 inch,630.0,9,10,1,Released,None,All components available
+PO-0082,WHEEL-26,Wheel assembly 26 inch,365.657,9,10,1,Released,None,All components available
+PO-0083,WHEEL-700C,Wheel assembly 700C,202.02,9,10,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0084,BIKE-KIDS,"Kids Bike 20 inch, single speed",310.0,10,11,0,Released,None,All components available
+PO-0085,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,10,11,0,Released,None,All components available
+PO-0086,BIKE-ROAD,"Road Bike 700C, 14 speed",100.0,10,11,0,Released,None,All components available
+PO-0087,DRIVE-14S,Drivetrain 14 speed,109.091,10,11,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0088,DRIVE-21S,Drivetrain 21 speed,182.828,10,11,1,On Hold,Waiting for Supplier,Awaiting: DERAILLEUR (supplier SUP-06)
+PO-0089,WHEEL-26,Wheel assembly 26 inch,365.657,10,11,1,Released,None,All components available
+PO-0090,WHEEL-700C,Wheel assembly 700C,218.182,10,11,1,On Hold,Waiting for Supplier,Awaiting: TYRE-700C (supplier SUP-05)
+PO-0091,BIKE-MTB,"Mountain Bike 26 inch, 21 speed",181.0,11,12,0,Released,None,All components available
+PO-0092,BIKE-ROAD,"Road Bike 700C, 14 speed",108.0,11,12,0,Released,None,All components available

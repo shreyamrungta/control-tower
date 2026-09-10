@@ -1,0 +1,25 @@
+OrderID,Item,Period,Quantity,Customer,Priority
+SO-0001,CHAIR,1,208,Contract Interiors,Normal
+SO-0002,TABLE,1,106,Contract Interiors,Normal
+SO-0003,CHAIR,2,191,Contract Interiors,Normal
+SO-0004,TABLE,2,97,Contract Interiors,Normal
+SO-0005,CHAIR,3,173,Contract Interiors,Normal
+SO-0006,TABLE,3,88,Contract Interiors,Normal
+SO-0007,CHAIR,4,156,Contract Interiors,Normal
+SO-0008,TABLE,4,79,Contract Interiors,Normal
+SO-0009,CHAIR,5,139,Contract Interiors,Normal
+SO-0010,TABLE,5,71,Contract Interiors,Normal
+SO-0011,CHAIR,6,122,Contract Interiors,Normal
+SO-0012,TABLE,6,62,Contract Interiors,Normal
+SO-0013,CHAIR,7,105,Contract Interiors,Normal
+SO-0014,TABLE,7,53,Contract Interiors,Normal
+SO-0015,CHAIR,8,88,Contract Interiors,Normal
+SO-0016,TABLE,8,44,Contract Interiors,Normal
+SO-0017,CHAIR,9,71,Contract Interiors,Normal
+SO-0018,TABLE,9,36,Contract Interiors,Normal
+SO-0019,CHAIR,10,53,Contract Interiors,Normal
+SO-0020,TABLE,10,27,Contract Interiors,Normal
+SO-0021,CHAIR,11,36,Contract Interiors,Normal
+SO-0022,TABLE,11,18,Contract Interiors,Normal
+SO-0023,CHAIR,12,24,Contract Interiors,Normal
+SO-0024,TABLE,12,12,Contract Interiors,Normal

@@ -1,0 +1,24 @@
+# Integrated Manufacturing Operations Control Tower
+#
+# The planning engine needs only pandas and numpy - every forecasting method,
+# the MRP logic and the job-shop simulation are implemented from first
+# principles so that each number can be reproduced by hand.
+#
+# Upper bounds are deliberate. A graded submission has to still run months from
+# now, and an unpinned major-version bump (Streamlit 2.x, pandas 4.x) is the
+# most likely way for a working deployment to silently break.
+
+pandas>=2.0,<4
+numpy>=1.24,<3
+
+# Dashboard
+streamlit>=1.30,<2
+plotly>=5.18,<8
+
+# Verified working on: Python 3.11.15, pandas 3.0.2, numpy 2.4.4,
+#                      streamlit 1.63.0, plotly 7.0.0
+#
+# Optional - only for tests/smoke_dashboard.py, which drives the dashboard in a
+# headless browser. Not needed to run or deploy the system, and deliberately
+# left out of the install so it does not bloat a cloud build.
+# playwright>=1.40

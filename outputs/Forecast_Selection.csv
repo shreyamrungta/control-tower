@@ -1,0 +1,4 @@
+Item,SelectedMethod,Forced,Parameters,MAPE,MAD,RMSE,Bias,TrackingSignal,Alert,AlertFlag
+BIKE-KIDS,SES,False,alpha=0.1,9.54,15.93,24.25,4.18,9.18,Tracking signal 9.18 indicates bias,True
+BIKE-MTB,MA(5),False,n=5,5.84,9.37,11.08,6.06,20.03,Tracking signal 20.03 indicates bias,True
+BIKE-ROAD,Holt-Winters,False,"alpha=0.1, beta=0.05, gamma=0.4",7.22,7.57,8.86,0.06,0.19,OK,False

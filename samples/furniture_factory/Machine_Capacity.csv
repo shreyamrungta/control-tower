@@ -1,0 +1,4 @@
+WorkCentre,Description,NumMachines,HoursPerShift,ShiftsPerDay,DaysPerWeek,Efficiency,AvailableHoursPerPeriod
+WC-A,Cutting & Welding,3,8,2,5,0.88,211.2
+WC-B,Assembly,2,8,2,5,0.86,137.6
+WC-C,Finishing,1,8,2,5,0.9,72.0

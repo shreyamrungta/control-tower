@@ -1,0 +1,6 @@
+Rule,Jobs,Units,Makespan,MakespanPeriods,AvgFlowTime,MaxFlowTime,AvgWaitingTime,AvgLateness,AvgTardiness,MaxTardiness,TardyJobs,OnTimeDeliveryPct,AvgUtilisation,MaxUtilisation,Bottleneck,ThroughputJobsPerPeriod,ThroughputUnitsPerPeriod,AvgWIP,TaktTimeHrs,TotalSetupHours
+FCFS,56,12385,683.33,8.54,54.8,128.06,8.56,-49.49,0.73,25.21,2,96.4,36.7,62.0,WC03,6.56,1450.0,4.49,0.0552,66.24
+SPT,56,12385,676.4,8.46,52.61,124.51,6.37,-51.67,1.4,37.45,4,92.9,37.1,62.6,WC03,6.62,1464.8,4.36,0.0546,66.24
+EDD,56,12385,683.33,8.54,54.94,128.06,8.7,-49.35,0.73,25.21,2,96.4,36.7,62.0,WC03,6.56,1450.0,4.5,0.0552,66.24
+LPT,56,12385,683.33,8.54,55.92,128.06,9.68,-48.36,0.73,25.21,2,96.4,36.7,62.0,WC03,6.56,1450.0,4.58,0.0552,66.24
+CR,56,12385,683.33,8.54,55.92,128.06,9.68,-48.36,0.73,25.21,2,96.4,36.7,62.0,WC03,6.56,1450.0,4.58,0.0552,66.24

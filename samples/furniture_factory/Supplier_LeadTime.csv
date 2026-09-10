@@ -1,0 +1,6 @@
+Supplier,SupplierName,Item,LeadTime,Reliability,MinOrderQty,UnitPrice
+SUP-A,FixFast Ltd,SCREW-KIT,2,0.94,100,3.2
+SUP-B,PanelCo,PLYWOOD,2,0.88,100,14.0
+SUP-B,PanelCo,LAMINATE,2,0.88,100,9.0
+SUP-C,FoamWorks,FOAM,2,0.91,100,6.5
+SUP-D,TubeMetals,STEEL-TUBE,2,0.79,100,2.1

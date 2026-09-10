@@ -1,0 +1,12 @@
+Item,Description,SourceType,OnHand,SafetyStock,LeadTime,LotSizeRule,LotSizeValue,UnitCost,Supplier,BOMLevel,UOM,OrderingCost,HoldingCostRate,ScrapPct
+CHAIR,Office chair,M,900,260,1,LFL,0,88.0,-,0,EA,200.0,0.22,0.01
+TABLE,Desk 1400mm,M,620,180,1,LFL,0,165.0,-,0,EA,200.0,0.22,0.01
+SEAT-PANEL,Upholstered seat panel,M,950,280,1,LFL,0,22.0,-,0,EA,200.0,0.22,0.01
+CHAIR-FRAME,Chair frame welded,M,950,280,1,LFL,0,31.0,-,0,EA,200.0,0.22,0.01
+TABLE-TOP,Laminated table top,M,640,190,1,LFL,0,54.0,-,0,EA,200.0,0.22,0.01
+LEG-SET,Leg set of 4,M,640,190,1,LFL,0,26.0,-,0,EA,200.0,0.22,0.01
+SCREW-KIT,Fixings kit,P,3200,900,2,FOQ,2000,3.2,SUP-A,0,EA,200.0,0.22,0.01
+PLYWOOD,Plywood sheet,P,2600,800,2,FOQ,2000,14.0,SUP-B,0,EA,200.0,0.22,0.01
+FOAM,Seat foam block,P,1900,600,2,FOQ,1500,6.5,SUP-C,0,EA,200.0,0.22,0.01
+STEEL-TUBE,Steel tube metre,P,9500,3000,2,FOQ,6000,2.1,SUP-D,0,EA,200.0,0.22,0.01
+LAMINATE,Laminate sheet,P,1400,400,2,FOQ,1200,9.0,SUP-B,0,EA,200.0,0.22,0.01

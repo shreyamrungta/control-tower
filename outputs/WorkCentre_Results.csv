@@ -1,0 +1,7 @@
+WorkCentre,Description,Machines,Operations,BusyHours,SetupHours,IdleHours,CapacityHours,Utilisation,SetupRatio,Bottleneck
+WC01,Tube Cutting & Mitering,2,16,299.15,9.45,1067.5,1366.66,0.2189,0.0316,False
+WC02,Frame Welding,2,17,683.68,21.18,682.97,1366.66,0.5003,0.031,False
+WC03,Painting & Curing,1,17,423.71,21.86,259.62,683.33,0.6201,0.0516,True
+WC04,Wheel Building,2,7,361.41,2.96,1005.25,1366.66,0.2644,0.0082,False
+WC05,Sub-Assembly,2,1,71.17,0.39,1295.49,1366.66,0.0521,0.0055,False
+WC06,Final Assembly & QC,2,15,750.45,10.41,616.2,1366.66,0.5491,0.0139,False

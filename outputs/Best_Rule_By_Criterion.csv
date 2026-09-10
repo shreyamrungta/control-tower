@@ -1,0 +1,11 @@
+Criterion,BestRule,BestValue,WorstRule,WorstValue,Direction
+Makespan,SPT,676.4,FCFS,683.33,lower is better
+Average Flow Time,SPT,52.61,LPT,55.92,lower is better
+Average Tardiness,FCFS,0.73,SPT,1.4,lower is better
+Maximum Tardiness,FCFS,25.21,SPT,37.45,lower is better
+Tardy Jobs,FCFS,2.0,SPT,4.0,lower is better
+On-Time Delivery %,FCFS,96.4,SPT,92.9,higher is better
+Average WIP,SPT,4.36,LPT,4.58,lower is better
+Throughput,SPT,1464.8,FCFS,1450.0,higher is better
+Average Utilisation,SPT,37.1,FCFS,36.7,higher is better
+Average Waiting Time,SPT,6.37,LPT,9.68,lower is better

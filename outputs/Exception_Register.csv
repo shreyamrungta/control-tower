@@ -1,0 +1,32 @@
+ExceptionID,Module,Item,ExceptionType,Severity,Period,Message,RecommendedAction
+EX-001,Inventory,DERAILLEUR,Projected Stockout,Critical,2,"First stockout in period 2; 4 period(s) affected, worst shortfall 1041 units",Expedite inbound order or re-plan MPS
+EX-002,Inventory,FRAME-ROAD,Projected Stockout,Critical,2,"First stockout in period 2; 1 period(s) affected, worst shortfall 68 units",Expedite inbound order or re-plan MPS
+EX-003,Inventory,TYRE-700C,Projected Stockout,Critical,2,"First stockout in period 2; 3 period(s) affected, worst shortfall 670 units",Expedite inbound order or re-plan MPS
+EX-004,MRP,DERAILLEUR,Past-Due Release,Critical,1,Order of 910 units is needed in period 1 but the 5-period lead time means it should already have been released in period -4,"Expedite with supplier, split the order, or pull the requirement later in the MPS"
+EX-005,MRP,TYRE-700C,Past-Due Release,Critical,1,Order of 620 units is needed in period 1 but the 4-period lead time means it should already have been released in period -3,"Expedite with supplier, split the order, or pull the requirement later in the MPS"
+EX-006,Inventory,ALU-TUBE-STK,Projected Below Safety,High,3,"Dips below safety stock from period 3; 3 period(s) affected, lowest balance 1047 vs safety stock 3700 (72% below)",Bring forward the planned replenishment
+EX-007,Inventory,BRAKE-DISC,Projected Below Safety,High,3,"Dips below safety stock from period 3; 1 period(s) affected, lowest balance 202 vs safety stock 360 (44% below)",Bring forward the planned replenishment
+EX-008,Inventory,CRANKSET,Projected Below Safety,High,3,"Dips below safety stock from period 3; 2 period(s) affected, lowest balance 629 vs safety stock 980 (36% below)",Bring forward the planned replenishment
+EX-009,Inventory,DERAILLEUR,Below Safety Stock,High,0,On-hand 610 is below safety stock 850,Expedite replenishment order
+EX-010,Inventory,DERAILLEUR,Projected Below Safety,High,1,"Dips below safety stock from period 1; 1 period(s) affected, lowest balance 300 vs safety stock 850 (65% below)",Bring forward the planned replenishment
+EX-011,Inventory,FRAME-ROAD,Projected Below Safety,High,1,"Dips below safety stock from period 1; 7 period(s) affected, lowest balance 56 vs safety stock 170 (67% below)",Bring forward the planned replenishment
+EX-012,Inventory,HUB-STD,Projected Below Safety,High,3,"Dips below safety stock from period 3; 2 period(s) affected, lowest balance 795 vs safety stock 2400 (67% below)",Bring forward the planned replenishment
+EX-013,Inventory,RIM-26,Projected Below Safety,High,3,"Dips below safety stock from period 3; 1 period(s) affected, lowest balance 492 vs safety stock 800 (39% below)",Bring forward the planned replenishment
+EX-014,Inventory,RIM-700C,Projected Below Safety,High,2,"Dips below safety stock from period 2; 5 period(s) affected, lowest balance 208 vs safety stock 520 (60% below)",Bring forward the planned replenishment
+EX-015,Inventory,TYRE-20,Projected Below Safety,High,3,"Dips below safety stock from period 3; 1 period(s) affected, lowest balance 407 vs safety stock 640 (36% below)",Bring forward the planned replenishment
+EX-016,Inventory,TYRE-26,Projected Below Safety,High,3,"Dips below safety stock from period 3; 2 period(s) affected, lowest balance 423 vs safety stock 940 (55% below)",Bring forward the planned replenishment
+EX-017,Inventory,TYRE-700C,Below Safety Stock,High,0,On-hand 450 is below safety stock 590,Expedite replenishment order
+EX-018,Inventory,TYRE-700C,Projected Below Safety,High,1,"Dips below safety stock from period 1; 3 period(s) affected, lowest balance 199 vs safety stock 590 (66% below)",Bring forward the planned replenishment
+EX-019,Supplier,DERAILLEUR,Supplier Risk,High,0,ShiftPro Components (SUP-06) has 80% on-time reliability on a 5-period lead time,Qualify an alternate supplier or raise the buffer stock
+EX-020,Forecast,BIKE-KIDS,Forecast Bias,Medium,0,Tracking signal 9.18 (limit +/-4.0) - the model is consistently under-forecasting,Switch to a trend-capable model or add a bias correction
+EX-021,Forecast,BIKE-MTB,Forecast Bias,Medium,0,Tracking signal 20.03 (limit +/-4.0) - the model is consistently under-forecasting,Switch to a trend-capable model or add a bias correction
+EX-022,Inventory,BIKE-ROAD,Projected Below Safety,Medium,3,"Dips below safety stock from period 3; 5 period(s) affected, lowest balance 127 vs safety stock 160 (21% below)",Bring forward the planned replenishment
+EX-023,Inventory,DRIVE-14S,Projected Below Safety,Medium,3,"Dips below safety stock from period 3; 6 period(s) affected, lowest balance 136 vs safety stock 170 (20% below)",Bring forward the planned replenishment
+EX-024,Inventory,FRAME-MTB,Projected Below Safety,Medium,2,"Dips below safety stock from period 2; 1 period(s) affected, lowest balance 244 vs safety stock 270 (10% below)",Bring forward the planned replenishment
+EX-025,Inventory,STL-TUBE-STK,Projected Below Safety,Medium,3,"Dips below safety stock from period 3; 1 period(s) affected, lowest balance 978 vs safety stock 1300 (25% below)",Bring forward the planned replenishment
+EX-026,Inventory,TUBESET-ROAD,Projected Below Safety,Medium,3,"Dips below safety stock from period 3; 6 period(s) affected, lowest balance 116 vs safety stock 150 (23% below)",Bring forward the planned replenishment
+EX-027,Inventory,WHEEL-700C,Projected Below Safety,Medium,3,"Dips below safety stock from period 3; 6 period(s) affected, lowest balance 253 vs safety stock 320 (21% below)",Bring forward the planned replenishment
+EX-028,Scheduling,FCFS,Late Jobs,Medium,0,"FCFS: 2 of 56 jobs late, OTD 96.4%, max tardiness 25.2 h","Switch to EDD, add capacity, or re-phase the MPS"
+EX-029,MRP,ALU-TUBE-STK,Critical Component,Low,1,ALU-TUBE-STK has a 4-period lead time and feeds 2 parent items - a supply failure propagates widely,Dual-source or hold additional buffer stock
+EX-030,MRP,DERAILLEUR,Critical Component,Low,1,DERAILLEUR has a 5-period lead time and feeds 2 parent items - a supply failure propagates widely,Dual-source or hold additional buffer stock
+EX-031,MRP,HUB-STD,Critical Component,Low,1,HUB-STD has a 4-period lead time and feeds 3 parent items - a supply failure propagates widely,Dual-source or hold additional buffer stock

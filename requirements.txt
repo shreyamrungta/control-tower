@@ -10,10 +10,10 @@
 
 pandas>=2.0,<4
 numpy>=1.24,<3
-
-# Dashboard
 streamlit>=1.30,<2
 plotly>=5.18,<8
+xlsxwriter>=3.1
+openpyxl>=3.1
 
 # Verified working on: Python 3.11.15, pandas 3.0.2, numpy 2.4.4,
 #                      streamlit 1.63.0, plotly 7.0.0

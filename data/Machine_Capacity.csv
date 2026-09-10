@@ -1,0 +1,7 @@
+WorkCentre,Description,NumMachines,HoursPerShift,ShiftsPerDay,DaysPerWeek,Efficiency,AvailableHoursPerPeriod
+WC01,Tube Cutting & Mitering,2,8,2,5,0.9,144.0
+WC02,Frame Welding,2,8,2,5,0.85,136.0
+WC03,Painting & Curing,1,10,1,5,0.9,45.0
+WC04,Wheel Building,2,8,2,5,0.88,140.8
+WC05,Sub-Assembly,2,8,2,5,0.9,144.0
+WC06,Final Assembly & QC,2,8,2,5,0.85,136.0

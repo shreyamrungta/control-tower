@@ -1,0 +1,19 @@
+Item,OpSeq,Operation,WorkCentre,SetupTimeHrs,RunTimeHrsPerUnit
+TUBESET-MTB,10,Cut & Miter Tubes,WC01,0.5,0.1
+TUBESET-ROAD,10,Cut & Miter Tubes,WC01,0.6,0.11
+TUBESET-KIDS,10,Cut & Miter Tubes,WC01,0.4,0.07
+FRAME-MTB,10,Weld Frame,WC02,1.0,0.2
+FRAME-MTB,20,Powder Coat,WC03,0.75,0.08
+FRAME-ROAD,10,Weld Frame,WC02,1.2,0.22
+FRAME-ROAD,20,Powder Coat,WC03,0.75,0.085
+FRAME-KIDS,10,Weld Frame,WC02,0.8,0.14
+FRAME-KIDS,20,Powder Coat,WC03,0.6,0.06
+WHEEL-26,10,Lace & True Wheel,WC04,0.4,0.12
+WHEEL-700C,10,Lace & True Wheel,WC04,0.45,0.125
+WHEEL-20,10,Lace & True Wheel,WC04,0.3,0.09
+DRIVE-21S,10,Assemble Drivetrain,WC05,0.5,0.1
+DRIVE-14S,10,Assemble Drivetrain,WC05,0.5,0.105
+DRIVE-SS,10,Assemble Drivetrain,WC05,0.35,0.07
+BIKE-MTB,10,Final Assembly & QC,WC06,0.6,0.25
+BIKE-ROAD,10,Final Assembly & QC,WC06,0.65,0.265
+BIKE-KIDS,10,Final Assembly & QC,WC06,0.45,0.18

@@ -1,0 +1,71 @@
+OrderID,Item,Period,Quantity,Customer,Priority
+SO-0001,BIKE-MTB,1,166,GreenWheel Distributors,Normal
+SO-0002,BIKE-ROAD,1,123,GreenWheel Distributors,High
+SO-0003,BIKE-KIDS,1,89,ProRide Outlets,Normal
+SO-0004,BIKE-KIDS,1,63,GreenWheel Distributors,Normal
+SO-0005,BIKE-MTB,2,111,Campus Cycles,High
+SO-0006,BIKE-MTB,2,42,Campus Cycles,Normal
+SO-0007,BIKE-ROAD,2,48,CyclePoint Retail,Normal
+SO-0008,BIKE-ROAD,2,51,CyclePoint Retail,High
+SO-0009,BIKE-ROAD,2,15,GreenWheel Distributors,Low
+SO-0010,BIKE-KIDS,2,140,ProRide Outlets,Normal
+SO-0011,BIKE-MTB,3,132,Metro Sports Chain,High
+SO-0012,BIKE-MTB,3,8,ProRide Outlets,Normal
+SO-0013,BIKE-ROAD,3,89,Metro Sports Chain,Normal
+SO-0014,BIKE-ROAD,3,15,Campus Cycles,Normal
+SO-0015,BIKE-KIDS,3,48,ProRide Outlets,Low
+SO-0016,BIKE-KIDS,3,80,Metro Sports Chain,Low
+SO-0017,BIKE-MTB,4,127,ProRide Outlets,Normal
+SO-0018,BIKE-ROAD,4,94,CyclePoint Retail,High
+SO-0019,BIKE-KIDS,4,16,Campus Cycles,Normal
+SO-0020,BIKE-KIDS,4,95,CyclePoint Retail,Normal
+SO-0021,BIKE-KIDS,4,5,Metro Sports Chain,Normal
+SO-0022,BIKE-MTB,5,9,Campus Cycles,Low
+SO-0023,BIKE-MTB,5,13,Metro Sports Chain,High
+SO-0024,BIKE-MTB,5,92,CyclePoint Retail,High
+SO-0025,BIKE-ROAD,5,24,GreenWheel Distributors,Low
+SO-0026,BIKE-ROAD,5,61,ProRide Outlets,Normal
+SO-0027,BIKE-KIDS,5,104,ProRide Outlets,Normal
+SO-0028,BIKE-MTB,6,30,CyclePoint Retail,High
+SO-0029,BIKE-MTB,6,71,GreenWheel Distributors,High
+SO-0030,BIKE-ROAD,6,75,GreenWheel Distributors,Low
+SO-0031,BIKE-KIDS,6,33,CyclePoint Retail,Low
+SO-0032,BIKE-KIDS,6,28,Metro Sports Chain,Normal
+SO-0033,BIKE-KIDS,6,30,GreenWheel Distributors,Normal
+SO-0034,BIKE-MTB,7,26,CyclePoint Retail,Low
+SO-0035,BIKE-MTB,7,16,Metro Sports Chain,High
+SO-0036,BIKE-MTB,7,46,CyclePoint Retail,High
+SO-0037,BIKE-ROAD,7,39,Campus Cycles,Low
+SO-0038,BIKE-ROAD,7,8,CyclePoint Retail,High
+SO-0039,BIKE-ROAD,7,19,Metro Sports Chain,Normal
+SO-0040,BIKE-KIDS,7,49,Campus Cycles,Low
+SO-0041,BIKE-KIDS,7,26,CyclePoint Retail,High
+SO-0042,BIKE-KIDS,7,5,Metro Sports Chain,Normal
+SO-0043,BIKE-MTB,8,74,ProRide Outlets,High
+SO-0044,BIKE-ROAD,8,55,GreenWheel Distributors,Low
+SO-0045,BIKE-KIDS,8,10,CyclePoint Retail,Normal
+SO-0046,BIKE-KIDS,8,58,CyclePoint Retail,Normal
+SO-0047,BIKE-MTB,9,13,CyclePoint Retail,Low
+SO-0048,BIKE-MTB,9,10,Metro Sports Chain,High
+SO-0049,BIKE-MTB,9,39,GreenWheel Distributors,Normal
+SO-0050,BIKE-ROAD,9,24,ProRide Outlets,Low
+SO-0051,BIKE-ROAD,9,22,GreenWheel Distributors,High
+SO-0052,BIKE-KIDS,9,42,GreenWheel Distributors,Normal
+SO-0053,BIKE-KIDS,9,14,CyclePoint Retail,Normal
+SO-0054,BIKE-MTB,10,41,CyclePoint Retail,Low
+SO-0055,BIKE-MTB,10,7,Campus Cycles,Low
+SO-0056,BIKE-ROAD,10,35,GreenWheel Distributors,Normal
+SO-0057,BIKE-KIDS,10,44,Metro Sports Chain,Low
+SO-0058,BIKE-MTB,11,15,Metro Sports Chain,Low
+SO-0059,BIKE-MTB,11,20,ProRide Outlets,Low
+SO-0060,BIKE-ROAD,11,17,ProRide Outlets,Normal
+SO-0061,BIKE-ROAD,11,9,CyclePoint Retail,Normal
+SO-0062,BIKE-KIDS,11,21,ProRide Outlets,Low
+SO-0063,BIKE-KIDS,11,2,Campus Cycles,Low
+SO-0064,BIKE-KIDS,11,8,ProRide Outlets,Low
+SO-0065,BIKE-MTB,12,22,GreenWheel Distributors,Normal
+SO-0066,BIKE-ROAD,12,8,CyclePoint Retail,Low
+SO-0067,BIKE-ROAD,12,8,CyclePoint Retail,Low
+SO-0068,BIKE-KIDS,12,4,GreenWheel Distributors,High
+SO-0069,BIKE-KIDS,12,14,GreenWheel Distributors,High
+SO-0070,BIKE-KIDS,12,2,Campus Cycles,High

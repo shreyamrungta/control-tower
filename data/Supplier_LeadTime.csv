@@ -1,0 +1,18 @@
+Supplier,SupplierName,Item,LeadTime,Reliability,MinOrderQty,UnitPrice
+SUP-01,BrakeTech Industries,BRAKE-DISC,3,0.95,450,22.0
+SUP-01,BrakeTech Industries,BRAKE-RIM,2,0.95,700,9.5
+SUP-02,VeloParts Global,SADDLE-ASSY,2,0.92,332,7.8
+SUP-03,RimWorks Alloys,RIM-26,3,0.88,910,6.2
+SUP-03,RimWorks Alloys,RIM-700C,3,0.88,620,7.4
+SUP-03,RimWorks Alloys,RIM-20,2,0.88,800,3.1
+SUP-04,HubSpoke Precision,HUB-STD,4,0.97,960,4.5
+SUP-04,HubSpoke Precision,SPOKE,2,0.97,87000,0.09
+SUP-05,RoadGrip Rubber,TYRE-26,4,0.85,910,5.6
+SUP-05,RoadGrip Rubber,TYRE-700C,4,0.85,620,6.9
+SUP-05,RoadGrip Rubber,TYRE-20,3,0.85,800,3.4
+SUP-02,VeloParts Global,CHAIN,2,0.92,336,4.1
+SUP-02,VeloParts Global,CRANKSET,3,0.92,1150,9.8
+SUP-06,ShiftPro Components,DERAILLEUR,5,0.8,910,12.5
+SUP-07,MetalStock Supply Co,ALU-TUBE-STK,4,0.93,4300,1.8
+SUP-07,MetalStock Supply Co,STL-TUBE-STK,3,0.93,1750,0.95
+SUP-08,ColourCoat Chemicals,PAINT-PWD,2,0.96,116,6.4
